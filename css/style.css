@@ -1,0 +1,45 @@
+
+
+/*counter up*/
+.counting{
+  margin: 50px 0;
+}
+.item{
+  padding: 30px 50px;
+  background-color:maroon;
+  color: white;
+}
+/*count-up-me*/
+.all_items{
+  display: flex;
+  justify-content: center;
+}
+.c_item {
+  width: 150px;
+  height: 150px;
+  padding: 50px 0;
+  margin: 10px;
+  text-align: center;
+  border-radius: 5px;
+  background: #19f;
+  color: #fff;
+  box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.2);
+}
+.c_item h2, h3{
+  font-size: 22px;
+}
+
+/*number animate*/
+.n_item{
+  padding: 30px 50px;
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+  color: white;
+  border-radius: 10px;
+}
+.item2{
+  padding:50px;
+  background-color: darkblue;
+  color: white;
+  border-radius: 10px;
+  box-shadow:2px 3px 5px rgba(0, 0, 0, 0.2) ;
+}
